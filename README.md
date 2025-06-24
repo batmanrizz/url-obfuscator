@@ -24,7 +24,7 @@ This is a simple Python script that generates a custom URL based on your inputte
 1. **Clone this repo** (or just copy the code):
 
     ```bash
-    git clone https://github.com/yourusername/url-generator.git
+    git clone https://github.com/batmanrizz/url-obfuscator.git
     cd url-generator
     ```
 
