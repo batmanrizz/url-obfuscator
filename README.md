@@ -25,13 +25,13 @@ This is a simple Python script that generates a custom URL based on your inputte
 
     ```bash
     git clone https://github.com/batmanrizz/url-obfuscator.git
-    cd url-generator
+    cd url-obfuscator
     ```
 
 2. **Run the script:**
 
     ```bash
-    python generate_url.py
+    python main.py
     ```
 
 3. **Follow the prompt:**
