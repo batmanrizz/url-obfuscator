@@ -17,10 +17,6 @@ This is a simple Python script that generates a custom URL based on your inputte
 
 ---
 
-## 📸 Preview
-
-![example image](https://user-images.githubusercontent.com/25181517/212271095-7a2d2e7a-2db6-4eec-9b1d-7fa1d2ffb6e7.png)
-
 ---
 
 ## 🛠️ How to Use
